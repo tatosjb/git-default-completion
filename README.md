@@ -2,7 +2,7 @@
 
 To instal, run:
 
-`git clone git@github.com:tatosjb/git-default-completion.git ./$ZHS/plugins`
+`git clone git@github.com:tatosjb/git-default-completion.git $ZSH/plugins`
 
 and add `git-default-completion` to your plugins on _~/.zshrc_, like:
 
